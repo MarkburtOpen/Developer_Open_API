@@ -3,6 +3,7 @@ package com.open.address;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
+import org.treeleafj.xdoc.boot.EnableXDoc;
 
 /**
  * @Description :  java类作用描述
@@ -15,6 +16,7 @@ import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
  */
 @SpringBootApplication
 @EnableEurekaClient
+@EnableXDoc
 public class AddressApplication {
 
     public static void main(String[] args) {

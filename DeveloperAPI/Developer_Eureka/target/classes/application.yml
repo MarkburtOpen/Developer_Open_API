@@ -1,11 +1,19 @@
 server:
   port: 8080
+
+   #eureka Configuration
 eureka:
   client:
     register-with-eureka: false #是否将自己注册到eureka中
     fetch-registry: false #是否从eureka中获取信息
     service-url:
       defaultZone: http://127.0.0.1:${server.port}/eureka/
+  server:
+    response-cache-auto-expiration-in-seconds: 180
+    #启用主动失效，并且每次主动失效检测间隔为3s
+    eviction-interval-timer-in-ms: 3000
+
+
 spring:
   application:
     name: eureka

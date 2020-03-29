@@ -12,7 +12,7 @@
         <module>DeveloperAPI</module>
         <!--test version-->
         <module>DevelopmentAPI</module>
-
+        <module>Development_environment_construction</module>
 
 
     </modules>

@@ -61,6 +61,14 @@
             <artifactId>fastjson</artifactId>
             <version>1.2.58</version>
         </dependency>
+
+
+        <!--代码注释-->
+        <dependency>
+            <groupId>com.github.treeleafj</groupId>
+            <artifactId>spring-boot-starter-xDoc</artifactId>
+            <version>1.1.0</version>
+        </dependency>
     </dependencies>
 
     <build>
@@ -71,5 +79,5 @@
             </plugin>
         </plugins>
     </build>
-    
+
 </project>
