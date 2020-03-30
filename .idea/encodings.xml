@@ -8,6 +8,8 @@
     <file url="file://$PROJECT_DIR$/Development_environment_construction/Microservice_Dubbo_Environment/Dubbo_Productor/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Development_environment_construction/SpringCloud_Eureka_Environment/Eureka_Gegistration_Center/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Development_environment_construction/SpringCloud_Eureka_Environment/Eureka_OAuth_Attestation/Common_Core/Core_Configuration/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Development_environment_construction/SpringCloud_Eureka_Environment/Eureka_OAuth_Attestation/Common_Core/Test_Configuration/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Development_environment_construction/SpringCloud_Eureka_Environment/Eureka_OAuth_Attestation/Common_Core/Web_Configuration/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Development_environment_construction/SpringCloud_Eureka_Environment/Eureka_OAuth_Attestation/OAuth_Cient/src/main/java" charset="UTF-8" />
   </component>
 </project>
