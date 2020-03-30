@@ -11,6 +11,8 @@
     <packaging>pom</packaging>
     <modules>
         <module>Core_Configuration</module>
+        <module>Web_Configuration</module>
+        <module>Test_Configuration</module>
     </modules>
     <artifactId>Common_Core</artifactId>
 
