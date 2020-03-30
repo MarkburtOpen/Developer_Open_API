@@ -11,6 +11,8 @@
         <module name="Core_Configuration" />
         <module name="Test_Configuration" />
         <module name="OAuth_Cient" />
+        <module name="Oauth_Server" />
+        <module name="OAuth_Orization" />
         <module name="Dubbo_Consumer" />
         <module name="Web_Configuration" />
         <module name="Developer_Eureka" />
@@ -36,6 +38,8 @@
       <module name="Eureka_OAuth_Attestation" options="-parameters" />
       <module name="Microservice_Dubbo_Environment" options="-parameters" />
       <module name="OAuth_Cient" options="-parameters" />
+      <module name="OAuth_Orization" options="-parameters" />
+      <module name="Oauth_Server" options="-parameters" />
       <module name="SpringCloud_Eureka_Environment" options="-parameters" />
       <module name="Spring_Cloud_Alibaba_Environment" options="-parameters" />
       <module name="Test_Configuration" options="-parameters" />
