@@ -12,6 +12,8 @@
     <modules>
         <module>OAuth_Cient</module>
         <module>Common_Core</module>
+        <module>Oauth_Server</module>
+        <module>OAuth_Orization</module>
     </modules>
     <artifactId>Eureka_OAuth_Attestation</artifactId>
 
