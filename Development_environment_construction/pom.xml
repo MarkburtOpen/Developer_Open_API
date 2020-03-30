@@ -14,12 +14,17 @@
         This project provides most of the middleware setup
         For reference only.
     </description>
+    <modules>
+        <module>SpringCloud_Eureka_Environment</module>
+        <module>Microservice_Dubbo_Environment</module>
+        <module>Spring_Cloud_Alibaba_Environment</module>
+    </modules>
 
     <groupId>org.markburt</groupId>
     <artifactId>Development_environment_construction</artifactId>
 
 
 
-    
+
 
 </project>

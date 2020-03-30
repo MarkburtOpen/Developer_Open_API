@@ -8,6 +8,8 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Spring_Cloud_Alibaba_Environment" />
+        <module name="Core_Configuration" />
+        <module name="OAuth_Cient" />
         <module name="Dubbo_Consumer" />
         <module name="Developer_Eureka" />
         <module name="Eureka_Gegistration_Center" />
@@ -22,12 +24,16 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="AddressAPI" options="-parameters" />
+      <module name="Common_Core" options="-parameters" />
+      <module name="Core_Configuration" options="-parameters" />
       <module name="Developer_Eureka" options="-parameters" />
       <module name="Development_environment_construction" options="-parameters" />
       <module name="Dubbo_Consumer" options="-parameters" />
       <module name="Dubbo_Productor" options="-parameters" />
       <module name="Eureka_Gegistration_Center" options="-parameters" />
+      <module name="Eureka_OAuth_Attestation" options="-parameters" />
       <module name="Microservice_Dubbo_Environment" options="-parameters" />
+      <module name="OAuth_Cient" options="-parameters" />
       <module name="SpringCloud_Eureka_Environment" options="-parameters" />
       <module name="Spring_Cloud_Alibaba_Environment" options="-parameters" />
     </option>
