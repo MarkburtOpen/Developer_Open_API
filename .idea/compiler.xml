@@ -7,7 +7,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="Spring_Cloud_Alibaba_Environment" />
+        <module name="Dubbo_Consumer" />
         <module name="Developer_Eureka" />
+        <module name="Eureka_Gegistration_Center" />
         <module name="AddressAPI" />
       </profile>
     </annotationProcessing>
@@ -21,6 +24,12 @@
       <module name="AddressAPI" options="-parameters" />
       <module name="Developer_Eureka" options="-parameters" />
       <module name="Development_environment_construction" options="-parameters" />
+      <module name="Dubbo_Consumer" options="-parameters" />
+      <module name="Dubbo_Productor" options="-parameters" />
+      <module name="Eureka_Gegistration_Center" options="-parameters" />
+      <module name="Microservice_Dubbo_Environment" options="-parameters" />
+      <module name="SpringCloud_Eureka_Environment" options="-parameters" />
+      <module name="Spring_Cloud_Alibaba_Environment" options="-parameters" />
     </option>
   </component>
 </project>
