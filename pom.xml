@@ -13,7 +13,7 @@
         <!--test version-->
         <module>DevelopmentAPI</module>
         <module>Development_environment_construction</module>
-
+        <module>LdentificationOfIntelligent</module>
 
 
     </modules>

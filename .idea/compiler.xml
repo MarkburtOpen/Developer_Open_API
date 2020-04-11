@@ -7,20 +7,21 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="LdentificationOfIntelligent" />
         <module name="Test_Configuration" />
-        <module name="Web_Configuration" />
         <module name="OAuth_Cient" />
         <module name="AddressAPI" />
         <module name="Dubbo_Consumer" />
         <module name="Gateway_Web" />
         <module name="OAuth_Orization" />
-        <module name="Gateway_System" />
+        <module name="Spring_Cloud_Alibaba_Environment" />
+        <module name="Web_Configuration" />
         <module name="Eureka_Common" />
         <module name="Eureka_Gegistration_Center" />
         <module name="Core_Configuration" />
         <module name="Developer_Eureka" />
         <module name="Oauth_Server" />
-        <module name="Spring_Cloud_Alibaba_Environment" />
+        <module name="Gateway_System" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -43,6 +44,7 @@
       <module name="Eureka_OAuth_Attestation" options="-parameters" />
       <module name="Gateway_System" options="-parameters" />
       <module name="Gateway_Web" options="-parameters" />
+      <module name="LdentificationOfIntelligent" options="-parameters" />
       <module name="Microservice_Dubbo_Environment" options="-parameters" />
       <module name="OAuth_Cient" options="-parameters" />
       <module name="OAuth_Orization" options="-parameters" />
